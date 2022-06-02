@@ -5,11 +5,8 @@ A brief description of what this project does and who it's for
 
 #### Get all items
 
-```http
-  GET /api/items
-```
 
-| **S.No** | **Project Name** |  **Dataset** | **Link** | 
+| **S.No** | **Project Name** |  **GitHub Link** | **Live Link** | 
 | ------------ | ------------- | ------------ | -------------| 
 | 1. | **`Book_Recommendation_System`** | Update Soon | Update Soon | 
 | 2. | **`Update Soon`** | Update Soon | Update Soon | 
